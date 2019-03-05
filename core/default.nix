@@ -2,8 +2,6 @@
 
 {
   imports = [
-    ./hardware-configuration.nix
-
-    ./core
+    ./i18n.nix
   ];
 }
